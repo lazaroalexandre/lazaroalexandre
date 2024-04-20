@@ -32,6 +32,8 @@
     </div>
     <div>
         <img align="right" alt="Lazaro-Kun" height="70" src="https://lh3.googleusercontent.com/a/ACg8ocJJ2VULCYBRO2acYCxHgS3nSITpxa8449z-B0IadeKSPA1TvME=s288-c-no">
+        <img align="right" alt="Lazaro-Kun" height="70" src="https://lh3.googleusercontent.com/a/ACg8ocJJ2VULCYBRO2acYCxHgS3nSITpxa8449z-B0IadeKSPA1TvME=s288-c-no">
+        <img align="right" alt="Lazaro-Kun" height="70" src="https://lh3.googleusercontent.com/a/ACg8ocJJ2VULCYBRO2acYCxHgS3nSITpxa8449z-B0IadeKSPA1TvME=s288-c-no">
     </div>
 </div>
 
