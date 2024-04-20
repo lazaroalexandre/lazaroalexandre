@@ -31,7 +31,7 @@
       <img align="center" alt="Lazaro-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
     </div>
     <div>
-        <img align="right" alt="Lazaro-Kun" height="70" src="https://media.discordapp.net/attachments/1214015595176263723/1214015688889339955/download20240300214436.png?ex=65f79337&is=65e51e37&hm=3287aad7ee7f379017982cab4ca35749ea300fa73742452dccdc8c551b310afd&=&format=webp&quality=lossless&width=424&height=424">
+        <img align="right" alt="Lazaro-Kun" height="70" src="https://lh3.googleusercontent.com/a/ACg8ocJJ2VULCYBRO2acYCxHgS3nSITpxa8449z-B0IadeKSPA1TvME=s288-c-no">
     </div>
 </div>
 
