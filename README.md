@@ -31,9 +31,9 @@
       <img align="center" alt="Lazaro-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
     </div>
     <div>
-        <img align="right" alt="Lazaro-Kun" height="70" src="https://lh3.googleusercontent.com/a/ACg8ocJJ2VULCYBRO2acYCxHgS3nSITpxa8449z-B0IadeKSPA1TvME=s288-c-no">
-        <img align="right" alt="Lazaro-Kun" height="70" src="https://lh3.googleusercontent.com/a/ACg8ocJa8urZNsmxv0C57yFBk8G1icI463odOyjdkPDtDTWbTbhTz-Q=s288-c-no">
         <img align="right" alt="Lazaro-Kun" height="70" src="https://lh3.googleusercontent.com/a/ACg8ocKWVOMTYWZ5zhfPc77SJfjOVft03i6j86tNkrVO3q7If9CSUeJIVLIUCRLYsWr0auF0emnDXP6GuBIosb_wuAZgpjq4ZKZO=s288-c-no">
+        <img align="right" alt="Lazaro-Kun" height="70" src="https://lh3.googleusercontent.com/a/ACg8ocJa8urZNsmxv0C57yFBk8G1icI463odOyjdkPDtDTWbTbhTz-Q=s288-c-no">
+        <img align="right" alt="Lazaro-Kun" height="70" src="https://lh3.googleusercontent.com/a/ACg8ocJJ2VULCYBRO2acYCxHgS3nSITpxa8449z-B0IadeKSPA1TvME=s288-c-no">
     </div>
 </div>
 
