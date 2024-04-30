@@ -7,14 +7,6 @@
 
 ##
 
-<div>
-    <a href="https://github.com/lazaroalexandre">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=lazaroalexandre&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaroalexandre&layout=compact&langs_count=16&theme=default"/>
-</div>
-
-##
-
 <div style="display: inline_block"><br>
     <div>
       <img align="center" alt="Lazaro-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
