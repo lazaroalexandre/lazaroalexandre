@@ -18,7 +18,7 @@ Com mais de dois anos de experiência, crio soluções que geram impacto positiv
 
 #### Habilidades
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <div>
       <img align="center" alt="Lazaro-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
       <img align="center" alt="Lazaro-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
