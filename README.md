@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lázaro Alexandre, desenvolvedor full stack👋
+### 👋🏻 Olá! Eu sou o Lázaro Alexandre ^-^
 
 
 - 🔭 Atualmente estou em busca de um novo emprego como dev junior
