@@ -11,7 +11,6 @@ Com mais de dois anos de experiência, crio soluções que geram impacto positiv
 * 🌱  Valorizo a melhoria contínua e a troca de conhecimentos para inspirar outros desenvolvedores.
 * ⚡  Busco sempre elevar a qualidade e o desempenho das aplicações.
 * 🧠  Estou aprendendo testes de software.
-* 🚀  Estou me preparando para o Campus Mobile 2024.
 * 🤝  Estou aberto a colaborar em projetos que tenham um alto impacto na vida das pessoas.
 * ✉️  Você pode entrar em contato comigo em [lazaroalexandre.dev@gmail.com](mailto:lazaroalexandre.dev@gmail.com).
 * <img align="center" alt="Ícone da Logo Homolazarus" height="20" width="20" src="https://homolazarus.netlify.app/assets/images/logo-icon.png"> Saiba mais no meu portfólio: [https://homolazarus.netlify.app/](https://homolazarus.netlify.app/).
