@@ -6,8 +6,8 @@ Sou Lázaro Alexandre, desenvolvedor full stack e estudante de Análise e Desenv
 
 Com mais de três anos de experiência, crio soluções que geram impacto positivo nas áreas social, econômica, educacional e de saúde, desenvolvendo aplicativos móveis e sistemas web.
 
-* 🔭  Atualmente estou em busca de um novo emprego como desenvolvedor de sistemas web ou de aplicativos móveis.
-* 🧑🏻‍💻  Procuro colaborar em desenvolvimento de softwares, documentação e análise de projetos.
+* 🔭  Atualmente estou em busca de um novo emprego como analista e desenvolvedor de sistemas web e móveis.
+* 🧑🏻‍💻  Procuro colaborar em desenvolvimento, documentação, testes e análise de projetos.
 * 🌱  Valorizo a melhoria contínua e a troca de conhecimentos para inspirar outros desenvolvedores.
 * ⚡  Busco sempre elevar a qualidade e o desempenho das aplicações.
 * 🤝  Estou aberto a colaborar em projetos que tenham um alto impacto na vida das pessoas.
