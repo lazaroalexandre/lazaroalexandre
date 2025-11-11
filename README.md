@@ -1,6 +1,6 @@
 ## 👋🏻 Olá! Eu sou o Lázaro Alexandre ^-^
 
-#### Engenheiro de Software | Analista de Sistemas
+#### Engenheiro de Software | Analista de Sistemas | Desenvolvedor Mobile | +3 anos transformando ideias em soluções reais
 
 Engenheiro de Software com mais de 3 anos de experiência em desenvolvimento de aplicativos móveis e soluções web, movido pela paixão de transformar ideias em produtos digitais que geram impacto real e mudam vidas. 
 
