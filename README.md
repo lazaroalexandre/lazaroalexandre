@@ -1,13 +1,11 @@
-## 👋🏻 Olá! Eu sou o Lázaro Alexandre ^-^
+## Lázaro Alexandre
 
-#### Engenheiro de Software | Analista de Sistemas | Desenvolvedor Mobile | +3 anos transformando ideias em soluções reais
+#### Engenheiro de Software | Analista de Sistemas | Desenvolvedor Mobile | Flutter | Dart | Android & iOS
 
-Engenheiro de Software com mais de 3 (três) anos de experiência em desenvolvimento de aplicativos móveis e soluções web, movido pela paixão de transformar ideias em produtos digitais que geram impacto real e mudam vidas. 
-
-Atuo em projetos que unem inovação, usabilidade e propósito social, desenvolvendo desde marketplaces e sistemas administrativos até aplicações educacionais e de inclusão digital.
-
-* 🔭 Atualmente, estou em busca de novas oportunidades como Engenheiro de Software ou Desenvolvedor Mobile/Web.
-* 🤝 Acredito que tecnologia é um meio de impactar positivamente a vida das pessoas, e valorizo projetos com propósito social.
-* 🎮 Nas horas vagas, curto jogos e filmes de terror, caminhadas ao nascer e pôr do sol, e ouvir rock brasileiro.
+Há mais de 3 anos atuando como engenheiro de software mobile, desenvolvo aplicativos para Android e iOS com Flutter e Dart, aplicando
+arquiteturas limpas e escaláveis (Clean Architecture, MVVM), design patterns, testes automatizados, CI/CD, gerenciamento de estado e injeção
+de dependência, aliando boas práticas de engenharia ao uso de IA, a fim de entregar aplicações estáveis, performáticas e preparadas para
+crescer. Já atuei em startups, empresas privadas, freelances e projetos sociais, desenvolvendo soluções e participando de todo o ciclo de
+desenvolvimento, desde o levantamento de requisitos até a entrega em produção e monitoramento de sistemas.
 
 
